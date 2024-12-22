@@ -1,19 +1,16 @@
-# hyrule-jobs
+# Vue 3 with TypeScript Tutorial
 
-## Project setup
-```
-yarn install
-```
+# Content
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+1. - Intro & Setup
+2. - Vue Components using TypeScript
+3. - Composition API & TypeScript
+4. - Functions
+5. - Computed Values
+6. - Hylia Font & Final Styles
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Screenshots
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![app](/1.png)![app](/1.png)
+![app](/1.png)![app](/2.png)
+![app](/3.png)![app](/3.png)
