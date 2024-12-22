@@ -33,6 +33,7 @@ export default defineComponent({
       { title: 'fisherman', location: 'lake hylia', salary: 21000, id: '4' },
       { title: 'prison guard', location: 'gerudo valley', salary: 32000, id: '5' },
     ])
+
     const order = ref<OrderTerm>('title')
 
     const handleClick = (term: OrderTerm) => {
